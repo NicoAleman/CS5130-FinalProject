@@ -1,0 +1,7 @@
+test_code.py:1: Multiple imports on one line are against PEP 8
+test_code.py:3: Class names should follow CamelCase convention, e.g., TestClass
+test_code.py:4: Consider using more descriptive variable names than 'a' and 'b'
+test_code.py:8: Method name 'sum' might clash with built-in function name
+test_code.py:13: Consider iterating directly over list items
+test_code.py:16: Unused function 'some_other_function'
+test_code.py:20: 'testClass' should be 'TestClass' following CamelCase convention

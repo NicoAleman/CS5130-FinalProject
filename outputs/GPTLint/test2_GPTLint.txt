@@ -1,0 +1,6 @@
+test2.py:6: Consider directly returning the expression without assigning it to 'average'.
+test2.py:12: This can be more efficiently written using str.join().
+test2.py:20: Good use of list comprehension.
+test2.py:24: Function 'test_func' seems to be unused or redundant.
+test2.py:26: Use of global variables should be minimized.
+test2.py:29: Consider passing 'global_variable' as a parameter.

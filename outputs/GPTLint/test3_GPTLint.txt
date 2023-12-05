@@ -1,0 +1,5 @@
+test3.py:1: Avoid multiple imports on one line (PEP 8: E401).
+test3.py:21: First parameter of a method should be 'self' (PEP 8: N804).
+test3.py:30: This condition always evaluates to True.
+test3.py:32: 'result' may be referenced before assignment if 'x > y or x <= y' is False.
+test3.py:35: 'pi' is not defined, consider importing 'pi' from 'math'.
